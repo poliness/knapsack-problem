@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 CZEGOS TU BRAKUJE
+=======
+jestem zelek
+musze cos dodac, zeby wrocilo na swoje miejsce
+
+Dobra trzeba cos tutaj zmienic
+>>>>>>> develop
